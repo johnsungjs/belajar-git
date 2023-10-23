@@ -4,3 +4,6 @@ add text1
 conflict by john
 
 tambah main
+john ikutan edit juga
+
+
